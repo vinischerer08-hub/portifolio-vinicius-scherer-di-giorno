@@ -4,7 +4,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://www.linkedin.com/in/vinicius-scherer-di-giorno-81932b332/?skipRedirect=true)
+[!LinkedIn](https://www.linkedin.com/in/vinicius-scherer-di-giorno-81932b332/?skipRedirect=true)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniempresarial08@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./cv/cv-vinicius-scherer-di-giorno.pdf)
  
