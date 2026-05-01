@@ -35,7 +35,7 @@ Clone o repositório:
 
 Bash
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+
 Instale as dependências (necessário para os módulos de API e Gráficos):
 
 Bash
