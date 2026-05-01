@@ -55,6 +55,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-de-solucoes-logicas/) |
 | **Modularização** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./modularizacao/) |
 | **Traduzindo Lógica para Python** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./traduzindo_logica_para_python/) |
+| **Engenharia de Contexto e Logística Fisica** | Aplicação aos conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.. | [Ver Projeto](./engenharia_de_contexto_e_logistica_fisica/) |
 
 
  
