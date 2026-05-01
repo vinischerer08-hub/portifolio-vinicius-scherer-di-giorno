@@ -38,14 +38,14 @@ Flags (Sinalizadores): Uso de variáveis booleanas para detecção de alertas cr
 Interpolação de Strings: Formatação de mensagens de saída para melhor experiência do usuário.
 
 🔧 Como Executar
-Certifique-se de ter o Python instalado em sua máquina.
+1.Certifique-se de ter o Python instalado em sua máquina.
 
-Clone o repositório:
-
+2.Clone o repositório:
 Bash
 git clone https://github.com/vinischerer08-hub/logica-python.git
-Navegue até a pasta do projeto e execute o arquivo:
 
+3.Navegue até a pasta do projeto e execute o arquivo:
 Bash
 python traduzindo_logica_para_python.py
-Siga as instruções no terminal para interagir com cada uma das etapas
+
+4.Siga as instruções no terminal para interagir com cada uma das etapas
