@@ -54,7 +54,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Algoritmo de Auditoria de Dados** | um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
 | **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-de-solucoes-logicas/) |
 | **Modularização** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./modularizacao/) |
-| **Traduzindo Lógica para Python** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./traduzindo-logica-para-python/) |
+| **Traduzindo Lógica para Python** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./traduzindo_logica_para_python/) |
 
 
  
