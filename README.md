@@ -56,7 +56,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Modularização** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./modularizacao/) |
 | **Traduzindo Lógica para Python** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./traduzindo_logica_para_python/) |
 | **Engenharia de Contexto e Logística Fisica** | Aplicação aos conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.. | [Ver Projeto](./engenharia_de_contexto_e_logistica_fisica/) |
-| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando_emojis_com_dados/) |
+| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenho_emojis_com_dados/) |
 
  
 ---
